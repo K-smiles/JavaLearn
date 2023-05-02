@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Base/Base.iml" filepath="$PROJECT_DIR$/Base/Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearn.iml" filepath="$PROJECT_DIR$/.idea/JavaLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redis-Spring/Redis-Spring.iml" filepath="$PROJECT_DIR$/Redis-Spring/Redis-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisBase/RedisBase.iml" filepath="$PROJECT_DIR$/RedisBase/RedisBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityLearn/SpringSecurityLearn.iml" filepath="$PROJECT_DIR$/SpringSecurityLearn/SpringSecurityLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activi/activi.iml" filepath="$PROJECT_DIR$/activi/activi.iml" />
+    </modules>
+  </component>
+</project>
